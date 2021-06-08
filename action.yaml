@@ -3,7 +3,7 @@ description: "Jenkins X GitHub Actions"
 author: "rafaelcalleja"
 runs:
   using: "docker"
-  image: "docker://rafaelcalleja/jx-action:0.0.1"
+  image: "docker://rafaelcalleja/jx-actions:0.0.1"
 branding:
   icon: "copy"
   color: "green"
