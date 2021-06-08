@@ -1,0 +1,9 @@
+name: "JXActions"
+description: "Jenkins X GitHub Actions"
+author: "rafaelcalleja"
+runs:
+  using: "docker"
+  image: "docker://rafaelcalleja/jx-action:0.0.1"
+branding:
+  icon: "copy"
+  color: "green"
